@@ -1,0 +1,4 @@
+# WALMART 
+## linear regression model 
+link : https://www.ritchieng.com/machine-learning-evaluate-linear-regression-model/
+
