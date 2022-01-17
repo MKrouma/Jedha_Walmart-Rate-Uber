@@ -36,6 +36,7 @@ pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==9.0.0
 platformdirs==2.4.1
+plotly==5.5.0
 prompt-toolkit==3.0.24
 ptyprocess==0.7.0
 pure-eval==0.2.1
@@ -51,6 +52,7 @@ seaborn==0.11.2
 Shapely==1.8.0
 six==1.16.0
 stack-data==0.1.4
+tenacity==8.0.1
 threadpoolctl==3.0.0
 tomli==1.2.3
 tornado==6.1
