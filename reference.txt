@@ -2,3 +2,6 @@
 ## linear regression model 
 link : https://www.ritchieng.com/machine-learning-evaluate-linear-regression-model/
 
+# RATE
+## delete remote branch
+solution : git push origin --delete branch
