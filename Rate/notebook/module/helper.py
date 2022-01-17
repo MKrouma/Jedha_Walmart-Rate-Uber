@@ -6,6 +6,7 @@ import os
 import json 
 import pickle
 import pandas as pd
+from IPython.display import display
 
 
 # helper functions : general_statistics()
@@ -32,3 +33,7 @@ def general_statistics(df) :
 
     print("Percentage of missing values: ")
     display(100*df.isnull().sum()/df.shape[0])
+
+# column indice in df
+def var_index(df, name) :
+    return df.columns.to_list().index(name)
