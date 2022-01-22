@@ -5,3 +5,7 @@ link : https://www.ritchieng.com/machine-learning-evaluate-linear-regression-mod
 # RATE
 ## delete remote branch
 solution : git push origin --delete branch
+
+# UBER
+## uber dataset explanation (Kaggle)
+link : https: //www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city
